@@ -1,2 +1,2 @@
 # buddha-demo
-this is my demo  git and github 
+this is my demo  git and github.
